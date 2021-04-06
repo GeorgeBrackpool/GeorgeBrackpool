@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GeorgeBrackpool
+- 👀 I’m interested in C#, Game Dev and Web Dev
+- 🌱 I’m currently learning Unity 3D using C#.
+- 📫 How to reach me - on Linked in.
