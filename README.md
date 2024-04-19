@@ -1,7 +1,7 @@
 Hi 👋 My name is George Brackpool
 =================================
 
-Mobile Game & Front-End Web Dev
+Front-End Web & Mobile Game Dev
 -------------------------------
 
 *   🌍  I'm based in Crawley
@@ -30,8 +30,3 @@ Mobile Game & Front-End Web Dev
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a></p>### Badges<b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/GeorgeBrackpool/FinalProjectSite" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeBrackpool&repo=FinalProjectSite&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/GeorgeBrackpool/Duck-Dive" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeBrackpool&repo=Duck-Dive&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/GeorgeBrackpool/Tinder-Clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeBrackpool&repo=Tinder-Clone&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/GeorgeBrackpool/Tinder-Clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeBrackpool&repo=Tinder-Clone&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/GeorgeBrackpool/Duck-Dive" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeBrackpool&repo=Duck-Dive&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
